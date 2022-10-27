@@ -3,3 +3,4 @@
 3. git tracks changes of file.
 4. add hello
 5. & simple
+6. add merge
